@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR1a0021/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書經部一
+  hash: sha256:5111095677a17a819f758c15b1f1277a321ca96156d9a58f561e94ee59984d92
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1a0021_WYG_000-1a, image: WYG0010/WYG0010-0001a.png}
+body:
+  text: 紫巖易𫝊易𩔖提要臣等謹案紫巖易傳十卷宋張浚撰紫巖者浚自號也其曽孫獻之跋云忠獻公潛心於易嘗為之傳前後兩著稿親題第二稿云此本改正處極多紹興戊寅四月六日某書始為定本矣獻之嘗繕録之附以讀易􅇎説通為十卷藏之於家據此則􅇎説一卷似獻之所續附者然考獻之是跋在嘉定庚辰而朱子作浚行狀已稱有易解及􅇎説共十卷則獻之特繕録而已未嘗編次也其書立言醇粹凡説隂陽動静皆適於義理之正末一卷即所謂􅇎説胡一桂議其専主劉牧今觀所論河圖信然朱子不取牧説而作浚行狀但稱尤深於易春秋論孟不言其易出於牧殆諱之歟乾隆四十五年九月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:ccf9077dedd63f8c36fa204b4ca110987d11ebc6743f3faa8923d5202e92c4d5
+metadata:
+  title: 紫巖易傳
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 21:54:01.938172'
+  source:
+    repository: kanripo
+    path: KR1a0021/KR1a0021_000.txt
+hash: sha256:ce24a42c9aec452d3d5f45d0b8c5038aa4a5542a6fe2c06c55c11ca178df48aa

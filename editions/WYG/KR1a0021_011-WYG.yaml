@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR1a0021/WYG/v1/juan/11
+seq: 11
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 紫巖易傳跋曽王父忠獻公潛心於易嘗為之傳前後兩著稿親題第二稿云此本改正處極多紹興戊寅四月六日某書始為定本矣獻之頃嘗繕錄之附以讀易雜説通為十卷藏之於家忠獻嘗為屏山劉公書云無他用心惟静黙體道卒究聖人心法又答澹庵胡公書云杜門亦惟聖賢之道是求夫求而得之者其在是矣惜其傳之未廣朅来春陵刻於郡齋與學者共之
+  hash: sha256:ec27910402c6a6f64d56280c05a6cf7aac2ea8d28a5f3764ac89d2b666245514
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1a0021_WYG_011-1a, image: WYG0010/WYG0010-0262a.png}
+metadata:
+  title: 紫巖易傳
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 21:54:01.938172'
+  source:
+    repository: kanripo
+    path: KR1a0021/KR1a0021_011.txt
+hash: sha256:6b2a654e1b4cd7e3e8d899775ee81f6f52d036094c05edb66c238a8491a5f09b
