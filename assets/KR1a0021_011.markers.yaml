@@ -19,14 +19,18 @@ markers:
 
       ', id: KR1a0021_krp_011-bkkkrnewl4}
   - {type: line-break, offset: 47, content: '', id: KR1a0021_WYG_011-1a04}
+  - {type: substitution, offset: 57, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: 'kr:newline', offset: 68, content: '
 
       ', id: KR1a0021_krp_011-bkkkrnewl5}
   - {type: line-break, offset: 68, content: '', id: KR1a0021_WYG_011-1a05}
+  - {type: substitution, offset: 88, original: 静, replacement: 靜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20691}}
   - {type: 'kr:newline', offset: 89, content: '
 
       ', id: KR1a0021_krp_011-bkkkrnewl6}
   - {type: line-break, offset: 89, content: '', id: KR1a0021_WYG_011-1a06}
+  - {type: substitution, offset: 89, original: 黙, replacement: 默, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20742}}
+  - {type: substitution, offset: 100, original: 澹, replacement: 淡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20177}}
   - {type: 'kr:newline', offset: 110, content: '
 
       ', id: KR1a0021_krp_011-bkkkrnewl7}
@@ -35,8 +39,9 @@ markers:
 
       ', id: KR1a0021_krp_011-bkkkrnewl8}
   - {type: line-break, offset: 131, content: '', id: KR1a0021_WYG_011-1a08}
+  - {type: substitution, offset: 133, original: 来, replacement: 來, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16500}}
   - {type: 'kr:newline', offset: 145, content: '
 
       ', id: KR1a0021_krp_011-bkkkrnewl9}
   back: []
-hash: sha256:ef876f648e8068b6fc8107d299e95a76b1304c0f26f55a3b405570a76ba9e9c8
+hash: sha256:28f304dad6b6ae03f72878babe351e465f07128795845cda88ee642806786baf
